@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{890F18B6-1D12-4C6E-AA91-D6956C6180A8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ray1/Services/IdentityService.cs">
+    <Files>
+      <File FileName="ray1/Startup.cs" Line="62" Column="79" />
+      <File FileName="ray1/Controllers/V1/PostController.cs" />
+      <File FileName="ray1/Domain/CosmosPostDto.cs" />
+      <File FileName="ray1/Domain/Post.cs" />
+      <File FileName="ray1/Installers/DbInstaller.cs" />
+      <File FileName="ray1/Program.cs" />
+      <File FileName="ray1/Options/AppSettings.cs" />
+      <File FileName="ray1/Services/IdentityService.cs" Line="17" Column="17" />
+      <File FileName="ray1/Services/IIdentityService.cs" />
+      <File FileName="ray1/Controllers/V1/IdentityController.cs" />
+      <File FileName="ray1/Contracts/V1/ApiRoutes.cs" />
+      <File FileName="ray1/Services/IPostService.cs" />
+      <File FileName="ray1/Contracts/V1/Requests/CreatePostRequest.cs" />
+      <File FileName="ray1/Contracts/V1/Requests/UserRegistrationRequest.cs" />
+      <File FileName="ray1/Contracts/V1/Responses/AuthSuccessResponse.cs" />
+      <File FileName="ray1/Installers/MvcInstaller.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ray1" expanded="True">
+            <Node name="ray1" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="IdentityService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ray1 PreferredExecutionTarget="/Applications/Google Chrome 2.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
